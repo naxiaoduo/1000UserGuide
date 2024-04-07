@@ -5,9 +5,9 @@
 <p align="center">
    <a href="https://github.com/naxiaoduo/1000UserGuide"><img src="https://img.shields.io/github/stars/naxiaoduo/1000UserGuide" alt="Github Stars"></a>
    <a target="_blank" href="https://www.apache.org/licenses/LICENSE-2.0"><img src="https://img.shields.io/badge/license-Apache%202-green.svg" /></a>
-   <a href='#/groupChat'><img src='https://img.shields.io/badge/官方-交流群-orange' alt='userguide10000' />
-   <a target="_blank" href='#/donate'><img src='https://img.shields.io/badge/赞助¥-请我喝杯饮料-purple' alt='' />
-   <a target="_blank" href='#/update'><img src='https://img.shields.io/badge/最后-更新记录-green' alt='' />
+   <a href='https://1000userguide.com/#/groupChat'><img src='https://img.shields.io/badge/官方-交流群-orange' alt='userguide10000' />
+   <a target="_blank" href='https://1000userguide.com/#/donate'><img src='https://img.shields.io/badge/赞助¥-请我喝杯饮料-purple' alt='' />
+   <a target="_blank" href='https://1000userguide.com/#/update'><img src='https://img.shields.io/badge/最后-更新记录-green' alt='' />
    </a>
 </p>
 
@@ -19,7 +19,7 @@
 
 可问题是，上哪儿找这1000个人呢？
 
-别发愁，1000UserGuide就是为你准备的。这里精心整理了300多个国内外渠道，专门适合独立开发者和创业者推广产品的渠道。
+别发愁，[1000UserGuide](http://1000userguide.com/) 就是为你准备的。这里精心整理了300多个国内外渠道，专门适合独立开发者和创业者推广产品的渠道。
 
 **利用这些渠道，你就能：**
 
@@ -43,7 +43,7 @@
 
  - **Reddit子版块**：这些子版块专门面向开发者和创业者，你可以在这里发布你的产品，和大家交流。
 
-1000UserGuide就是你的贴心小帮手，帮你找到最适合你的推广渠道。有了这些推广资源，你就能少走弯路，高效推广你的产品，找到你的第一批1000个用户。
+[1000UserGuide](http://1000userguide.com/) 就是你的贴心小帮手，帮你找到最适合你的推广渠道。有了这些推广资源，你就能少走弯路，高效推广你的产品，找到你的第一批1000个用户。
 
 ---
 
