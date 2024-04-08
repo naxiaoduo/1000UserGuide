@@ -70,7 +70,7 @@
 
  - [少数派](https://sspai.com/ )：少数派推出“[Tron 计划](https://sspai.com/page/tron )”，支持早期创业者专注于产品开发，联合大型平台和资本资源深度扶持。该计划已支持软件、硬件和服务领域的多个优秀项目。
  
- - [ahhhhfs](https://www.ahhhhfs.com )： 收集各种有趣实用的软件和APP的下载、安装、使用方法，发现一些稀奇古怪的的网站，投稿地址。
+ - [ahhhhfs](https://www.ahhhhfs.com )： 收集各种有趣实用的软件和APP的下载、安装、使用方法，发现一些稀奇古怪的的网站，[投稿地址](https://support.qq.com/products/411748/ )。
 
  - [新趣集](https://xinquji.com/ )：一个类似ProductHunt的平台，可创建自己的产品介绍页面，获得免费曝光。
 
@@ -361,6 +361,8 @@
  - [Indiecorn](https://www.indiecorn.com/ )：一个专注于发现和推广自助创业成功故事和自主创业者的网站。
 
  - [No Code Family](https://nocodefamily.com/submit-tool )：一个无代码评审平台，旨在支持无代码开发者社区。该平台提供了一系列无代码工具和资源，帮助用户在无需编写代码的情况下创建应用程序和网站。
+ 
+ - [SpotSaaS](https://www.spotsaas.com/ )一个帮助用户浏览、比较和选择SaaS软件的平台，同时也为软件开发者提供了一个推广和吸引客户的机会，开发者可以[提交产品](https://www.spotsaas.com/get-listed )上架平台。
  
  [![Back to Top](assets/Back-To-Top.svg)](#目录)
 
