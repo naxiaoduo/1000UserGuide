@@ -69,6 +69,8 @@
  - [ABABTOOLS](https://ababtools.com/ )（[曝光台](https://ababtools.com/?post=1292 )）：宝藏开发者的免费曝光台，为独立开发者提供免费产品收录。
 
  - [少数派](https://sspai.com/ )：少数派推出“[Tron 计划](https://sspai.com/page/tron )”，支持早期创业者专注于产品开发，联合大型平台和资本资源深度扶持。该计划已支持软件、硬件和服务领域的多个优秀项目。
+ 
+ - [ahhhhfs](https://www.ahhhhfs.com )： 收集各种有趣实用的软件和APP的下载、安装、使用方法，发现一些稀奇古怪的的网站，投稿地址。
 
  - [新趣集](https://xinquji.com/ )：一个类似ProductHunt的平台，可创建自己的产品介绍页面，获得免费曝光。
 
