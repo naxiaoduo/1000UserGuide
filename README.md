@@ -11,6 +11,23 @@
    </a>
 </p>
 
+<table>
+  <tr>
+    <td align="center" vertical-align="center">
+      <a href="https://muselink.cc/1000UserGuide" >
+        <img src="https://picx.zhimg.com/80/v2-89d01c359a079395a5ee4c02a150e4b3_1440w.jpeg" width="120px;" alt="" />
+      </a>
+    </td>
+    <td align="center" vertical-align="center">
+      <a href="https://muselink.cc/1000UserGuide">📚 小报童专栏精选，开启你的成功之路</a>
+      <br />
+      <p width="200px">
+      特别为你精选了一系列超级实用的专栏，涵盖了营销、产品和变现的方方面面，帮你解决各种难题。<br/>
+      </p>
+    </td>
+  </tr>
+</table>
+
 ---
 
 **对独立开发者和创业者来说，找到前1000个早期用户太关键了。**
