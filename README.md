@@ -120,6 +120,12 @@
  
  - [1Link.Fun](https://1link.fun/ )：每周更新 10 条有趣的链接，主要包含：科技新闻、网站推荐、工具推荐，开发者可在[这里推荐](https://1link.fun/blog/guestbook/ )你的网站/软件。
  
+ - [线圈](https://xquan.net/ )：创意交汇之处，最有趣的作品与创意都在这里，[提交](https://xquan.net/help?tab=submit-guide )项目。
+ 
+ - [一网一匠](https://ywyj.cn/ )：产品发现社区，旨在打造一个服务于产品创造者和爱好者分享和交流社区。
+
+ - [数字升产力](https://www.shengchanli.online/ )：一个客观中立的收录各种优质生产力工具的社区，目前已精选收录3000+款软件产品，包含从个人办公到团队协作到企业服务的各种生产力工具及SaaS产品。
+ 
  [![Back to Top](assets/Back-To-Top.svg)](#目录)
 
 ####  🤖国内网址导航站
@@ -767,6 +773,10 @@ Reddit这个平台上的一些子版块，这些地方特别适合开发者去�
  - [r/linuxapps](https://www.reddit.com/r/linuxapps/ )：这里讨论的是Linux操作系统下的应用程序。
 
  - [r/chromeextensions](https://www.reddit.com/r/chrome_extensions/ )：如果你做的是Google Chrome浏览器的扩展程序，这个版块就是讨论这些的地方。
+ 
+ - [r/InternetIsBeautiful](https://www.reddit.com/r/InternetIsBeautiful/ )：旨在分享和发现互联网上有趣、实用但可能不太出名的网站。
+ 
+ - [r/freepromote](https://www.reddit.com/r/freepromote/ )：允许成员免费推广他们的内容、产品、服务和活动，为用户提供免费的自我推广机会。
 
 Reddit上的这些子版块，对于开发者来说，就像是一个个小市场，找对了地方，你的项目就能得到更多的关注和反馈。不过，每个版块都有自己的规矩，遵守规则，真诚交流，才能在这些社区里获得成功。
 

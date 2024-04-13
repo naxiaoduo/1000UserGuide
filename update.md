@@ -20,6 +20,12 @@
 
 ---
 
+## 2024-4-13
+
+- 新增国内渠道：线圈、一网一匠、数字升产力
+
+- 新增Reddit子版块：r/InternetIsBeautiful、r/freepromote
+
 ## 2024-4-10
 
 - 新增国内网站渠道：1Link.Fun
