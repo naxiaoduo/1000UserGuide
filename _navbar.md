@@ -1,6 +1,9 @@
 * [首页](/)
-* [更新记录](/update)
+* 营销资源
+  - [获客案例](/case)
+  - [增长妙招](/growth)
+  - [营销资源](/resource)
 * 值得推荐
   - [赞助合作](/donate)
-  - [专栏精选](https://muselink.cc/1000UserGuide)
+  - [更新记录](/update)
   - [合作伙伴](https://ababtools.com)
