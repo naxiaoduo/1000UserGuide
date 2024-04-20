@@ -28,6 +28,23 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td align="center" vertical-align="center">
+      <a href="https://seedplaybook.1000userguide.com/" >
+        <img src="https://picx.zhimg.com/80/v2-7aff8565c9024ba9ad4684a704cd6b7e_1440w.png" width="120px;" alt="" />
+      </a>
+    </td>
+    <td align="center" vertical-align="center">
+      <a href="https://seedplaybook.1000userguide.com/">🌱 《种子用户速成手册：快速获取前1000个用户》 </a>
+      <br />
+      <p width="200px">
+     这本手册是早期创业者和独立开发者的“用户获取秘诀”，教你如何用简单的步骤找到并留住那些对你的产品至关重要的早期用户。 <br/>
+      </p>
+    </td>
+  </tr>
+</table>
+
 ---
 
 **对独立开发者和创业者来说，找到前1000个早期用户太关键了。**

@@ -1,9 +1,6 @@
 * [首页](/)
-* 营销资源
-  - [获客案例](/case)
-  - [增长妙招](/growth)
-  - [营销资源](/resource)
+* [更新记录](/update)
 * 值得推荐
   - [赞助合作](/donate)
-  - [更新记录](/update)
+  - [营销资源](https://seedplaybook.1000userguide.com/resource)
   - [合作伙伴](https://ababtools.com)
