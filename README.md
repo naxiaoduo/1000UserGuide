@@ -244,6 +244,8 @@
 
  - [63243](https://www.63243.com/about/add.html )网址导航：专注于互联网潮流趋势，精心筛选出各种类型符合新时代深受追捧的网站。
  
+ - [AI城市](https://ai.seitei.cn/ )（ai.seitei.cn）：一个全网AI工具集合的网站，提供了各种领域的人工智能工具和软件，支持推荐AI工具。
+ 
  [![Back to Top](assets/Back-To-Top.svg)](#目录)
 
 ####  💬国内社区论坛
@@ -409,6 +411,8 @@
  - [No Code Family](https://nocodefamily.com/submit-tool )：一个无代码评审平台，旨在支持无代码开发者社区。该平台提供了一系列无代码工具和资源，帮助用户在无需编写代码的情况下创建应用程序和网站。
  
  - [SpotSaaS](https://www.spotsaas.com/ )一个帮助用户浏览、比较和选择SaaS软件的平台，同时也为软件开发者提供了一个推广和吸引客户的机会，开发者可以[提交产品](https://www.spotsaas.com/get-listed )上架平台。
+ 
+ - [MakerPeak](https://makerpeak.com/ )：一个经过精心筛选的产品平台，可以将自己的产品[提交](https://makerpeak.com/sign-up?redirect=/profile/products/submit )到MakerPeak平台上。
  
  [![Back to Top](assets/Back-To-Top.svg)](#目录)
 
@@ -815,6 +819,14 @@ Reddit这个平台上的一些子版块，这些地方特别适合开发者去�
  - [r/InternetIsBeautiful](https://www.reddit.com/r/InternetIsBeautiful/ )：旨在分享和发现互联网上有趣、实用但可能不太出名的网站。
  
  - [r/freepromote](https://www.reddit.com/r/freepromote/ )：允许成员免费推广他们的内容、产品、服务和活动，为用户提供免费的自我推广机会。
+ 
+ - [r/website](https://www.reddit.com/r/website/ )：专门用于讨论和分享有关网站的话题，自我推销时，请按照社区规则。
+
+ - [r/opensource](https://www.reddit.com/r/opensource/ )：专门讨论开源软件、开源项目和开放源代码的相关话题，用户可以分享开源新项目。
+
+ - [r/selfhosted](https://www.reddit.com/r/selfhosted/ )：专注于自托管（self-hosting）技术和相关话题的讨论，如果你的产品支持自托管，那么可以在这里自荐。
+
+ - [r/alphaandbetausers](https://www.reddit.com/r/alphaandbetausers/ )：让 Alpha 和 Beta 用户和测试人员测试您的应用程序/网站的地方。
 
 Reddit上的这些子版块，对于开发者来说，就像是一个个小市场，找对了地方，你的项目就能得到更多的关注和反馈。不过，每个版块都有自己的规矩，遵守规则，真诚交流，才能在这些社区里获得成功。
 

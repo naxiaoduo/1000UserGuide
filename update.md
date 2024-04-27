@@ -20,6 +20,14 @@
 
 ---
 
+## 2024-4-27
+
+- 新增国内网址导航站渠道：AI城市
+
+- 新增海外网站：MakerPeak
+
+- 新增Reddit子版块：r/website、r/opensource、r/selfhosted、r/alphaandbetausers
+
 ## 2024-4-20
 
 - 新增《种子用户速成手册：快速获取前1000个用户》
