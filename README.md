@@ -246,6 +246,8 @@
  
  - [AI城市](https://ai.seitei.cn/ )（ai.seitei.cn）：一个全网AI工具集合的网站，提供了各种领域的人工智能工具和软件，支持推荐AI工具。
  
+ - [AI驿站](https://www.51aiyz.com/about )：一站式人工智能资源集合网站，500+ AI工具导航大全，AI工具的开发者或者运营负责人，可以提交一篇关于该AI工具的详细介绍文章。
+ 
  [![Back to Top](assets/Back-To-Top.svg)](#目录)
 
 ####  💬国内社区论坛
@@ -827,6 +829,10 @@ Reddit这个平台上的一些子版块，这些地方特别适合开发者去�
  - [r/selfhosted](https://www.reddit.com/r/selfhosted/ )：专注于自托管（self-hosting）技术和相关话题的讨论，如果你的产品支持自托管，那么可以在这里自荐。
 
  - [r/alphaandbetausers](https://www.reddit.com/r/alphaandbetausers/ )：让 Alpha 和 Beta 用户和测试人员测试您的应用程序/网站的地方。
+ 
+  - [r/webdev](https://www.reddit.com/r/webdev/ )：一个面向开发者的 Reddit 社区，专注于讨论与网页开发相关的话题，可分享自己的相关产品项目。只能在每周的&quot;Showoff Saturday&quot;（美国时间-周六），分享你的项目、作品集或其他内容。如果你在其他日子发布此类内容，将会被删除。
+
+ - [r/ChatGPT](https://www.reddit.com/r/ChatGPT/ )：如果你基于ChatGPT API开发了新产品，那么可以在这里讨论。帖子必须与 ChatGPT 或 AI 主题直接相关。
 
 Reddit上的这些子版块，对于开发者来说，就像是一个个小市场，找对了地方，你的项目就能得到更多的关注和反馈。不过，每个版块都有自己的规矩，遵守规则，真诚交流，才能在这些社区里获得成功。
 
