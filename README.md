@@ -248,6 +248,8 @@
  
  - [AI驿站](https://www.51aiyz.com/about )：一站式人工智能资源集合网站，500+ AI工具导航大全，AI工具的开发者或者运营负责人，可以提交一篇关于该AI工具的详细介绍文章。
  
+ - [AI导航网](https://www.aiopenminds.com/ ):包含了国内外上百个优秀实用的AI工具，如：AI开发编程、AI写作、AI图像生成、AI视频制作、AI音乐生成、AI对话聊天、AI绘画设计等AI类工具合集。支持提交AI产品、网站，[提交链接](https://jinshuju.net/f/BhEFyJ )。
+ 
  [![Back to Top](assets/Back-To-Top.svg)](#目录)
 
 ####  💬国内社区论坛
