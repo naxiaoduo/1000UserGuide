@@ -250,6 +250,8 @@
  
  - [AI导航网](https://www.aiopenminds.com/ ):包含了国内外上百个优秀实用的AI工具，如：AI开发编程、AI写作、AI图像生成、AI视频制作、AI音乐生成、AI对话聊天、AI绘画设计等AI类工具合集。支持提交AI产品、网站，[提交链接](https://jinshuju.net/f/BhEFyJ )。
  
+ - [Tap4 AI](https://tap4.ai/cn )：一个可以供海外开发者提交收录的 AI 工具导航站，[免费提交](https://tap4.ai/cn/submit ) 。
+ 
  [![Back to Top](assets/Back-To-Top.svg)](#目录)
 
 ####  💬国内社区论坛
