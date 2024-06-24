@@ -252,6 +252,8 @@
  
  - [Tap4 AI](https://tap4.ai/cn )：一个可以供海外开发者提交收录的 AI 工具导航站，[免费提交](https://tap4.ai/cn/submit ) 。
  
+ - [智鹭AI](https://www.aiheron.com/ ):AI网站和AI工具，超过8187个产品，每日更新。[免费提交](https://www.aiheron.com/promote )，24小时以内出现在我们的新上线列表中，无需排队。
+ 
  [![Back to Top](assets/Back-To-Top.svg)](#目录)
 
 ####  💬国内社区论坛
