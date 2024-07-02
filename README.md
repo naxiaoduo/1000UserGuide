@@ -164,7 +164,7 @@
  
  - [Solo 社区](https://solo.xin/product )：国内的独立开发者社区，支持开发者在产品广场展示出自己的作品。
  
- - [独立开发者导航站](https://www.indiehackers.site/zh/ ）：发掘最优秀的独立开发者和ta们的应用，助你从中获取灵感[提交应用](https://www.indiehackers.site/zh/apptype/new )。
+ - [独立开发者导航站](https://www.indiehackers.site/ )：发掘最优秀的独立开发者和ta们的应用，助你从中获取灵感。[提交应用](https://www.indiehackers.site/zh/apptype/new )。
  
  [![Back to Top](assets/Back-To-Top.svg)](#目录)
 
