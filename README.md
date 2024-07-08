@@ -170,6 +170,9 @@
 
 ####  🤖国内网址导航站
 
+
+ - [aifly.tools](https://www.aifly.tools/postproduct)：推荐优质好用的AI产品进行提交 最好的 AI 工具站 - 收集最全最新的 AI 工具站。
+
  - [AIHub](https://www.aihub.cn/write )：推荐优质好用的AI产品进行提交。输入产品信息，包括产品介绍、产品链接、产品功能、产品价格和如何使用等模块。
 
  - [ai-bot.cn](https://ai-bot.cn/ )：AI工具集，提交未收录的AI工具，只收录优质AI网站，不收录镜像站、不收录套壳站、不收录小程序、不收录AI课程、不收录垃圾网站。仅作为[提交申请](https://tally.so/r/wkeKz1 )，并不保证一定收录。
