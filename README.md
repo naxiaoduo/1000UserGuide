@@ -430,6 +430,8 @@
  
  - [MakerPeak](https://makerpeak.com/ )：一个经过精心筛选的产品平台，可以将自己的产品[提交](https://makerpeak.com/sign-up?redirect=/profile/products/submit )到MakerPeak平台上。
  
+ - [WebCurate](https://www.webcurate.co/ )：一个网络上 2100 多个最佳网站的手工精选集合，且不断增加 - 每日更新。
+ 
  [![Back to Top](assets/Back-To-Top.svg)](#目录)
 
 ####  🛠️海外AI导航网站
