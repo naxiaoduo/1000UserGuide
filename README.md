@@ -31,6 +31,23 @@
 <table>
   <tr>
     <td align="center" vertical-align="center">
+      <a href="https://wildcard.com.cn/i/A37BILO1" >
+        <img src="https://pic1.zhimg.com/80/v2-a79b2ff577286e753dd26e12c6d54aac_1440w.png" width="120px;" alt="" />
+      </a>
+    </td>
+    <td align="center" vertical-align="center">
+      <a href="https://wildcard.com.cn/i/A37BILO1">💳 出海必备虚拟信用卡：WildCard</a>
+      <br />
+      <p width="200px">
+      1 分钟开通，安全方便：海外信用卡+手机号+OpenAI ChatGPT专区。<br/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" vertical-align="center">
       <a href="https://seedplaybook.1000userguide.com/" >
         <img src="https://picx.zhimg.com/80/v2-7aff8565c9024ba9ad4684a704cd6b7e_1440w.png" width="120px;" alt="" />
       </a>
