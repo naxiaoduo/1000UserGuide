@@ -98,6 +98,10 @@
 
 ---
 
+**注：** 有一些网站可能失效了，该项目的后期维护推荐查看Key的[Excel目录清单](https://ii2gz5iyo3x.feishu.cn/wiki/OfqMwqeE0i0nOYk13MscUWbUnRx )，感谢Key的后续维护更新。
+
+---
+
 # 目录
 
    * [国内网站](#国内网站)
