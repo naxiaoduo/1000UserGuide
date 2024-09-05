@@ -133,8 +133,6 @@
 
  - [不死鸟](https://iui.su/ )：支持[每日分享](https://iui.su/fx/ )投稿，你的投稿如采纳，将会发布在不死鸟每日分享，开发者可以投稿软件、网站、插件等产品，[投稿地址](https://wj.qq.com/s2/10983041/9f94/ )。
 
- - [倾城之链](https://nicelinks.site/explore/all )：一个开放平台，鼓励您创造属于您的个人品牌，烙印着自己的风格，替自己代言、发声。
-
  - [Mergeek](https://mergeek.com/publish_project )：一个产品发现及推荐的社区，致力于为仍在初创期的个人或团队提供产品发布及展示机会。当你的产品还“不为人知”的时候，在 Mergeek 上发布你的产品，并拥有自己的产品公共主页，会为你带来很多种子用户，帮助你的产品成长。
 
  - [挖互联网](https://tigg.cc/ )：仅限分享[提交](https://tigg.cc/share )有创新特点的免费资源或工具，试用版或付费版不收录。
@@ -646,6 +644,8 @@
  - [YourAITool](https://youraitool.com/submit-tool )：市场上最佳人工智能工具的集合目录，匹配最适合用户的人工智能工具。
  
  - [Super AI Tools](https://SuperAITools.io )：一个提供各种人工智能 (AI) 工具和资源的平台，支持免费[提交](https://www.superaitools.io/submit-a-tool )AI工具收录。
+ 
+ - [ToolsFine](https://toolsfine.com/ ):一个提供各种在线工具、AI 工具、网络工具、设计工具的网址导航网站，支持[免费提交](https://tally.so/r/wvB7Xg )。
  
  [![Back to Top](assets/Back-To-Top.svg)](#目录)
 
