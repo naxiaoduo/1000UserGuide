@@ -194,6 +194,7 @@
  - [ai-bot.cn](https://ai-bot.cn/ )：AI工具集，提交未收录的AI工具，只收录优质AI网站，不收录镜像站、不收录套壳站、不收录小程序、不收录AI课程、不收录垃圾网站。仅作为[提交申请](https://tally.so/r/wkeKz1 )，并不保证一定收录。
 
  - [ainav.cn](https://www.ainav.cn/ )：精选AI人工智能工具，发现好用AI。
+ - [navsone](https://navsone.com/)：AI工具导航站，收录你想要的AI工具，免费提交
 
  - [AI NAV](https://www.ainavpro.com/contribute )：一个专注于人工智能产品的导航站。
 
