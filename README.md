@@ -479,7 +479,7 @@
 
  - [AllThingsAI](https://allthingsai.com )：一个AI工具目录网站，包括文本处理、图像生成、代码生成、聊天机器人等。开发者可以免费提交工具，将其添加到网站上，以促进对其工具的推广和增加用户参与度。
 
- - [aidude.info](https://aidude.info/submit-your-tool )：一个提供最佳AI工具供您的项目使用的网站。
+ - [AiDude](https://aidude.pro/submit-your-tool )：一个提供最佳AI工具供您的项目使用的网站。
 
  - [aitoolhunt](https://www.aitoolhunt.com/ )：一个综合的AI工具列表网站。
 
