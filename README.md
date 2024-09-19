@@ -31,12 +31,12 @@
 <table>
   <tr>
     <td align="center" vertical-align="center">
-      <a href="https://wildcard.com.cn/i/A37BILO1" >
+      <a href="https://bewildcard.com/i/A37BILO1" >
         <img src="https://pic1.zhimg.com/80/v2-a79b2ff577286e753dd26e12c6d54aac_1440w.png" width="120px;" alt="" />
       </a>
     </td>
     <td align="center" vertical-align="center">
-      <a href="https://wildcard.com.cn/i/A37BILO1">💳 出海必备虚拟信用卡：WildCard</a>
+      <a href="https://bewildcard.com/i/A37BILO1">💳 出海必备虚拟信用卡：WildCard</a>
       <br />
       <p width="200px">
       1 分钟开通，安全方便：海外信用卡+手机号+OpenAI ChatGPT专区。<br/>
