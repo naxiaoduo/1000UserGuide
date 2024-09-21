@@ -389,6 +389,8 @@
 
  - [Make.rs](https://make.rs/ )：开发者可创建您的Maker页面并向世界展示您所做的事情。
 
+ - [ConfettiSaaS.com](https://ConfettiSaaS.com/ )：个展示使用 Confetti 技术构建的创新应用程序的目录平台。开发者可以提交自己的 Confetti 驱动产品，以获得更多曝光并吸引用户。
+
  - [KillerStartups](https://www.killerstartups.com/submit-startup/ )：一个以社区为中心的初创公司排名和新闻网站，可以提交自己的项目，在网站上获得推荐。
 
  - [PitchWall](https://pitchwall.co/ )：一个科技爱好者和早期采用者的社区平台。为科技公司和创业者提供了一个展示和推广他们的产品和创意的平台。
