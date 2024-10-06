@@ -98,6 +98,8 @@
 
 ---
 
+**注：** 1000UserGuide可以按标签+搜索查询渠道了，网址—— [1000UserGuide目录网站](https://1000.1000userguide.com/ )，持续收录免费且优质渠道中。
+
 **注：** 有一些网站可能失效了，该项目的后期维护推荐查看Key的[Excel目录清单](https://ii2gz5iyo3x.feishu.cn/wiki/OfqMwqeE0i0nOYk13MscUWbUnRx )，感谢Key的后续维护更新。
 
 ---
