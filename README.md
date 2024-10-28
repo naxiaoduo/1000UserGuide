@@ -453,6 +453,14 @@
  
  - [MakerPeak](https://makerpeak.com/ )：一个经过精心筛选的产品平台，可以将自己的产品[提交](https://makerpeak.com/sign-up?redirect=/profile/products/submit )到MakerPeak平台上。
  
+ - [Product Radar](https://productradar.ru/) ：专注于俄罗斯科技创业项目的平台，汇聚众多初创公司、开发者、导师和专家。如果你的产品面向俄罗斯市场，可以提交项目。
+
+ - [Simple Lister](https://simplelister.com/)  ：一个发布和发现科技产品的地方，旨在简化产品发现和推广，强调自动化、公平和社区参与。
+
+ - [Launching Today](https://www.launching.today/) ：一个面向创业者、开发者和梦想家的社区平台，旨在帮助用户发现新产品、寻找灵感并分享自己的项目。
+
+ - [WebsiteHunt](https://www.websitehunt.co/)  ：一个展示优秀网站设计的平台，对于开发者而言，这是一个展示自己作品、提升品牌知名度的好机会。
+ 
  [![Back to Top](assets/Back-To-Top.svg)](#目录)
 
 ####  🛠️海外AI导航网站
