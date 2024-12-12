@@ -21,6 +21,10 @@
 
 ---
 
+## 2024-12-12
+
+- 新增海外网址导航网站：[Free AI Tool](https://freeaitool.ai )；
+
 ## 2024-10-28
 
 - 新增海外网站渠道：[Product Radar](https://productradar.ru/) 、[Simple Lister](https://simplelister.com/) 、[Launching Today](https://www.launching.today/) 、[WebsiteHunt](https://www.websitehunt.co/) ；
