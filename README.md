@@ -117,7 +117,7 @@
       <!-- 标题 -->
       <a href="https://2agi.net" style="text-decoration: none; color: #1a73e8;">
         <h1 style="font-size: 24px; margin: 0; font-weight: bold;">
-          🔍 AI 产品与工具指南：2agi.net
+          🔍 <span style="color: #1a73e8;">AI 产品与工具指南：2agi.net</span>
         </h1>
       </a>
       <!-- Banner 图 -->
@@ -135,11 +135,12 @@
   </tr>
   <tr>
     <td colspan="2" style="text-align: center; padding: 10px;">
-      <!-- 赞助广告 -->
+      <!-- 赞助商广告 -->
       <p style="font-size: 14px; font-weight: bold; color: #ea4335; margin: 0;">赞助广告</p>
     </td>
   </tr>
 </table>
+
 
 ---
 
