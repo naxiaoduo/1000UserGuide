@@ -102,6 +102,40 @@
 
 **注：** 有一些网站可能失效了，该项目的后期维护推荐查看Key的[Excel目录清单](https://ii2gz5iyo3x.feishu.cn/wiki/OfqMwqeE0i0nOYk13MscUWbUnRx )，感谢Key的后续维护更新。
 
+
+<div style="font-family: Arial, sans-serif; color: #333; text-align: center; line-height: 1.6; padding: 20px; background-color: #ffffff; border-radius: 15px; border: 5px solid; border-image: linear-gradient(45deg, #1a73e8, #fbbc05, #34a853, #ea4335) 1; box-shadow: 0 4px 12px rgba(0,0,0,0.1); position: relative;">
+  <!-- 赞助 -->
+  <p style="font-size: 14px; font-weight: bold; color: #ea4335; position: absolute; bottom: 15px; right: 15px; margin: 0; z-index: 10;">赞助广告</p>
+  
+  <!-- 图标 -->
+  <a href="https://2agi.net" style="text-decoration: none;">
+    <img src="https://2agi.net/apple-touch-icon.png" 
+         alt="2agi Logo" 
+         style="width: 60px; height: 60px; border-radius: 50%; margin-bottom: 10px;" />
+  </a>
+  
+  <!-- 标题 -->
+  <a href="https://2agi.net" style="text-decoration: none; color: #1a73e8;">
+    <h1 style="font-size: 24px; margin: 10px 0 20px; font-weight: bold;">
+      🔍 AI 产品与工具指南：2agi.net
+    </h1>
+  </a>
+
+  <!-- Banner 图 -->
+  <a href="https://2agi.net" style="text-decoration: none;">
+    <img src="https://picx.zhimg.com/80/v2-3d2e1908168634a74979535286a003ff_1440w.png" 
+         alt="AI工具指南 Banner" 
+         style="max-width: 100%; border-radius: 10px; margin-bottom: 20px;" />
+  </a>
+
+  <!-- 描述文字 -->
+  <p style="font-size: 16px; margin: 0;">
+    全面的 AI 产品和工具，涵盖各类应用场景。<br />
+    详细的使用教程和专业咨询服务，帮助您找到最适合自己的 AI 解决方案。
+  </p>
+</div>
+
+
 ---
 
 # 目录
