@@ -505,6 +505,8 @@
 
  - [WebsiteHunt](https://www.websitehunt.co/)  ：一个展示优秀网站设计的平台，对于开发者而言，这是一个展示自己作品、提升品牌知名度的好机会。
  
+ - [Twelve.tools](https://twelve.tools) 是一个聚焦于工具发现和推广的实用平台。用户可以在此网站上提交自己的工具，帮助它们获得曝光，并与其他用户分享。[提交链接](https://twelve.tools/submit-your-tool )，提交的工具需为活跃且维护良好，用户需提供工具的方形logo，并在其网站的主页或页脚添加指向Twelve.tools的链接。
+ 
  [![Back to Top](assets/Back-To-Top.svg)](#目录)
 
 ####  🛠️海外AI导航网站
