@@ -880,8 +880,6 @@ Reddit这个平台上的一些子版块，这些地方特别适合开发者去�
 
  - [r/RoastMyStartup](https://www.reddit.com/r/roastmystartup )：如果你想让你的创业点子接受一下大家的“烤问”，来这里征求反馈。
 
- - [r/ShamelessPlug](https://www.reddit.com/r/shamelessplug/ )：这个社区就是让大家自由宣传自己的产品、服务、网站或者创作的。
-
  - [r/SmallBusiness](https://www.reddit.com/r/smallbusiness/ )：这里专门讨论小企业主的策略、工具和支持。
 
  - [r/macapps](https://www.reddit.com/r/macapps/ )：针对macOS上的应用程序，可以分享展示、新闻、更新、销售信息等。
@@ -899,8 +897,6 @@ Reddit这个平台上的一些子版块，这些地方特别适合开发者去�
  - [r/chromeextensions](https://www.reddit.com/r/chrome_extensions/ )：如果你做的是Google Chrome浏览器的扩展程序，这个版块就是讨论这些的地方。
  
  - [r/InternetIsBeautiful](https://www.reddit.com/r/InternetIsBeautiful/ )：旨在分享和发现互联网上有趣、实用但可能不太出名的网站。
- 
- - [r/freepromote](https://www.reddit.com/r/freepromote/ )：允许成员免费推广他们的内容、产品、服务和活动，为用户提供免费的自我推广机会。
  
  - [r/website](https://www.reddit.com/r/website/ )：专门用于讨论和分享有关网站的话题，自我推销时，请按照社区规则。
 
