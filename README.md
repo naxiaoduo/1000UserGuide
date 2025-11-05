@@ -491,6 +491,8 @@
  - [Twelve.tools](https://twelve.tools) 是一个聚焦于工具发现和推广的实用平台。用户可以在此网站上提交自己的工具，帮助它们获得曝光，并与其他用户分享。[提交链接](https://twelve.tools/submit-your-tool )，提交的工具需为活跃且维护良好，用户需提供工具的方形logo，并在其网站的主页或页脚添加指向Twelve.tools的链接。
 
  - [Top10](https://top10.now)：一个为自启动创业项目（bootstrapped startups）而生的发布平台。帮助独立创作者和小型初创公司获得用户，并通过公平曝光来推动业务增长。[提交链接](https://top10.now/submit )。
+
+ - [WhatLaunched.Today](https://www.whatlaunched.today) :一个每日更新新产品的网站，专注于发现最新的产品发布和初创公司，为创业者、产品爱好者和投资者提供了一个简洁无广告的渠道。对于开发者而言，它是一个免费提交新产品信息以进行早期推广和获取曝光的平台。
  
  [![Back to Top](assets/Back-To-Top.svg)](#目录)
 
