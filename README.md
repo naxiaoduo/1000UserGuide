@@ -91,7 +91,7 @@
     <td style="text-align: center; padding: 20px;">
       <!-- 图标 -->
       <a href="https://2agi.net" style="text-decoration: none;">
-        <img src="https://2agi.net/apple-touch-icon.png" 
+        <img src="https://pica.zhimg.com/80/v2-3f207361735c14dce9c1210f17418381_1140w.png" 
              alt="2agi Logo" 
              style="width: 100px; height: 100px; object-fit: contain;" />
       </a>
@@ -113,6 +113,45 @@
       <p style="font-size: 16px; margin: 0;">
         全面的 AI 产品和工具，涵盖各类应用场景。<br />
         提供详细的使用教程和专业咨询服务，帮助您找到最适合自己的 AI 解决方案。
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: center; padding: 10px;">
+      <!-- 赞助商广告 -->
+      <p style="font-size: 14px; font-weight: bold; color: #ea4335; margin: 0;">赞助广告</p>
+    </td>
+  </tr>
+</table>
+
+<table style="width: 100%; border-collapse: collapse; background-color: #ffffff; border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border: 5px solid; border-image: linear-gradient(45deg, #1a73e8, #fbbc05, #34a853, #ea4335) 1;">
+  <tr>
+    <td style="text-align: center; padding: 20px;">
+      <!-- 图标 -->
+      <a href="https://shandianshuo.cn" style="text-decoration: none;">
+        <img src="https://pica.zhimg.com/80/v2-dc91f8b980781831f7ce1eaab4ec16d6_1140w.png" 
+             alt="闪电说 Logo" 
+             style="width: 100px; height: 100px; object-fit: contain;" />
+      </a>
+    </td>
+    <td style="text-align: center; padding: 20px;">
+      <!-- 标题 -->
+      <a href="https://shandianshuo.cn" style="text-decoration: none; color: #1a73e8;">
+        <h1 style="font-size: 24px; margin: 0; font-weight: bold;">
+          ⚡ <span style="color: #1a73e8;">闪电说 AI 语音输入法</span>
+        </h1>
+      </a>
+      <!-- Banner 图 -->
+      <a href="https://shandianshuo.cn" style="text-decoration: none;">
+        <img src="https://pica.zhimg.com/80/v2-793456f854cff983be168445e546b1c0_1140w.png" 
+             alt="闪电说 Banner" 
+             style="max-width: 100%; border-radius: 10px; margin: 10px 0;" />
+      </a>
+      <!-- 描述文字 -->
+      <p style="font-size: 16px; margin: 0;">
+        让独立开发者和超级个体效率提升 <b>4 倍</b> 的 AI 语音输入法。<br />
+        端侧技术｜毫秒级响应｜绝对隐私｜限时免费<br />
+        AI 对话、AI 编程、文档写作、聊天回复……全场景可用，支持所有应用。
       </p>
     </td>
   </tr>
@@ -641,6 +680,8 @@
  - [SEOFAI](https://seofai.com/submit-tool/ )：一个AI工具搜索引擎，每天为用户提供新的AI工具发现。
 
  - [SpotTheAI](https://www.spottheai.com/submit )：一个提供超过 5,000 家企业构建 AI 产品的平台，汇集了各种 AI 工具和资源。
+
+ - [SaaS AI Tools](https://saasaitools.com/join/ ):一个精选的 AI 工具合集，其中包含数千款生成式 AI SaaS 工具。提供付费精选提交，也提供免费提交收录，但会等待一段时间才会被收录。
 
  - [Nextool AI](https://www.nextool.ai/submit-a-tool )：一个综合的人工智能工具平台，为企业提供顶级的AI工具和最佳的人工智能应用。
 

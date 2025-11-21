@@ -21,6 +21,10 @@
 
 ---
 
+## 2025-11-21
+
+新增海外网址导航网址：[SaaS AI Tools](https://saasaitools.com/ )
+
 ## 2025-11-05
 
 新增海外网站渠道：WhatLaunched.Today 是一个每日更新的网站，专注于发现最新的产品发布和初创公司。
