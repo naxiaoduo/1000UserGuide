@@ -127,12 +127,6 @@
 <table style="width: 100%; border-collapse: collapse; background-color: #ffffff; border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border: 5px solid; border-image: linear-gradient(45deg, #1a73e8, #fbbc05, #34a853, #ea4335) 1;">
   <tr>
     <td style="text-align: center; padding: 20px;">
-      <!-- 图标 -->
-      <a href="https://shandianshuo.cn" style="text-decoration: none;">
-        <img src="https://pica.zhimg.com/80/v2-dc91f8b980781831f7ce1eaab4ec16d6_1140w.png" 
-             alt="闪电说 Logo" 
-             style="width: 100px; height: 100px; object-fit: contain;" />
-      </a>
     </td>
     <td style="text-align: center; padding: 20px;">
       <!-- 标题 -->
