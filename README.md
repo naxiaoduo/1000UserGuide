@@ -130,11 +130,11 @@
     </td>
     <td style="text-align: center; padding: 20px;">
       <!-- 标题 -->
-      <a href="https://shandianshuo.cn" style="text-decoration: none; color: #1a73e8;">
-        <h1 style="font-size: 24px; margin: 0; font-weight: bold;">
+      <h1 style="font-size: 24px; margin: 0; font-weight: bold;">
+        <a href="https://shandianshuo.cn" style="text-decoration: none; color: #1a73e8;">
           ⚡ <span style="color: #1a73e8;">闪电说 AI 语音输入法</span>
-        </h1>
-      </a>
+        </a>
+      </h1>
       <!-- Banner 图 -->
       <a href="https://shandianshuo.cn" style="text-decoration: none;">
         <img src="https://pica.zhimg.com/80/v2-793456f854cff983be168445e546b1c0_1140w.png" 
