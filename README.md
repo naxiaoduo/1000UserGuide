@@ -399,8 +399,6 @@
 
  - [Appliv](https://app-liv.jp/contact/review_request/ )：一个移动应用发现和评论网站，允许开发者提交他们的移动应用。
 
- - [AppVita](https://appvita.com/ )：专注于发现和推荐改善生活各个方面的基于网络的应用程序。自2006年成立以来，AppVita已经精选并评论了超过1600个应用程序。
-
  - [Appysmarts](https://www.appysmarts.com/suggest.php )：一个提供免费儿童应用程序和游戏的平台，适用于智能手机和平板电脑。开发者可以在该平台上提交他们开发的应用程序进行评估和审核，以便将其列入Appysmarts的数据库和新闻通讯中。
 
  - [ASR](https://www.activesearchresults.com/ )：一个独立的互联网搜索引擎，使用Active Search Results Page Ranking Technology（ASR Ranking）来对搜索结果进行排名。该搜索引擎采用了一种新的页面排名算法，允许搜索引擎将排名更高的搜索结果显示给网站所有者或推广者。[提交你的网站](https://www.activesearchresults.com/addwebsite.php )。
