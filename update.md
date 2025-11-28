@@ -21,6 +21,10 @@
 
 ---
 
+## 2025-11-28
+
+新增国内网站渠道： [观猹](https://watcha.cn/ )：前沿科技爱好者聚集地。移除海外网站导航——AppVita。
+
 ## 2025-11-21
 
 新增海外网址导航网址：[SaaS AI Tools](https://saasaitools.com/ )

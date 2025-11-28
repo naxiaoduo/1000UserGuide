@@ -209,6 +209,8 @@
 
  - [有趣产品咖啡馆](https://yunyingxiaowanzi.zhubai.love/ )：独立开发者故事，向独立开发者们进行一对一的访谈，挖掘优质产品背后不为人知的故事。
 
+ - [观猹](https://watcha.cn/ )：前沿科技爱好者聚集地，可以提交个人开发的AI产品。
+
  - [独立开发变现周刊](https://github.com/ljinkai/weekly )：分享独立开发、产品变现相关内容，每周五发布。支持[投稿](https://github.com/ljinkai/weekly/issues )，推荐或自荐。
 
  - [FUUN.FUN](https://fuun.fun/ )：奇趣网站收藏家，如果你的产品是Web应用，并且有趣，可以在这里[提交分享](https://fuun.fun/talk.html )，进行曝光。
@@ -398,8 +400,6 @@
  - [Appoid](http://appiod.com/submit-app-for-review/ )：一个网站，它提供了一个平台让开发者提交他们的iOS、Android和Web应用程序进行审查。
 
  - [Appliv](https://app-liv.jp/contact/review_request/ )：一个移动应用发现和评论网站，允许开发者提交他们的移动应用。
-
- - [AppVita](https://appvita.com/ )：专注于发现和推荐改善生活各个方面的基于网络的应用程序。自2006年成立以来，AppVita已经精选并评论了超过1600个应用程序。
 
  - [Appysmarts](https://www.appysmarts.com/suggest.php )：一个提供免费儿童应用程序和游戏的平台，适用于智能手机和平板电脑。开发者可以在该平台上提交他们开发的应用程序进行评估和审核，以便将其列入Appysmarts的数据库和新闻通讯中。
 
