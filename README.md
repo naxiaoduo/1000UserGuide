@@ -243,8 +243,6 @@
  
  - [Solo 社区](https://solo.xin/product )：国内的独立开发者社区，支持开发者在产品广场展示出自己的作品。
  
- - [独立开发者导航站](https://www.indiehackers.site/ )：发掘最优秀的独立开发者和ta们的应用，助你从中获取灵感。[提交应用](https://www.indiehackers.site/zh/apptype/new )。
- 
  - [UNTAG](https://utgd.net/ )：支持开发者以投稿文章或发帖，以自荐形式推荐应用和产品，[投稿页面](https://utgd.net/submission ) 。
  
  - [独立开发者前线](https://www.91wink.com) ：目前网站日UV 500+，可以帮助独立开发者获得初始用户，外链质量也不错，可以投稿独立开发故事、产品。
