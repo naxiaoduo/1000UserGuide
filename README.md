@@ -384,6 +384,8 @@
  - [电鸭社区](https://eleduck.com/categories/15 )：国内最早的远程工作社区，也是互联网工作者们的聚集地。在社区，我们进行有价值的话题讨论，也分享远程、外包、零活、兼职、驻场等非主流工作机会，也可以发布独立产品。
 
  - [什么值得买](https://post.smzdm.com/ )：可在[软件区](https://post.smzdm.com/fenlei/ruanjianyingyong/ )，发布软件教程、应用推荐。
+
+ - [NodeLoc](https://www.nodeloc.com/c/app) ：本板块用于分享各类实用、有趣或小众的应用程序，涵盖效率工具、生活服务、学习辅助、娱乐应用等。你可以在这里推荐好用的 App，交流使用体验、功能技巧与替代方案，帮助大家发现真正值得安装和长期使用的应用。
  
  [![Back to Top](assets/Back-To-Top.svg)](#目录)
 

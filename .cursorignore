@@ -1,0 +1,5 @@
+# Cursor Helper Version: 0.1.5
+# 保留 Cursor Helper 与 .cursor 目录
+!cursor-helper/
+!.cursor/rules/
+!.cursor/commands/

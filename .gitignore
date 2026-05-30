@@ -1,2 +1,33 @@
 
 CNAME
+
+# Cursor Helper Version: 0.1.5
+# Cursor Helper AI 相关文件
+# 忽略 .cursor/commands 目录（Cursor 命令文件）
+.cursor/commands/
+
+# cursor-helper 目录：只允许提交报告文件
+# 忽略所有 diff 目录（临时文件）
+cursor-helper/**/diff/
+
+# 忽略所有 docs 目录（PRD和技术方案文档）
+cursor-helper/**/docs/
+
+# 忽略 rule_improvements.md（临时规则优化建议文件）
+cursor-helper/**/rule_improvements.md
+
+# 忽略 fix 目录下的修复计划文件（临时文件）
+cursor-helper/**/fix/fix_plan.md
+
+# 忽略评审报告中的 files 目录（详细的文件评审报告，diff 报告）
+cursor-helper/**/review/reports/files/
+
+# 备份文件（.bak）
+# ⚠️ 重要提示：如果因为 Cursor 无法访问文件而通过文件操作命令修改文件时，可能会遗留 .bak 备份文件
+# 这些备份文件应该被忽略，请记得及时删除遗留的 .bak 文件
+*.bak
+
+# 保留所有报告文件：
+# - cursor-helper/**/review/reports/summary/** （总结性评审报告）
+# - cursor-helper/**/fix/fix_report.md （修复报告）
+# - cursor-helper/**/organize-rules/** （规则整理报告）
