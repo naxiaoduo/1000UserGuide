@@ -729,6 +729,8 @@
  
  - [Free AI Tool](https://freeaitool.ai )：一个全面的AI在线导航网站，展示最新和最佳的人工智能工具，24小时内快速收录，[支持免费提交](https://freeaitool.ai/submit )。
  
+ - [ZPlatform.ai](https://zplatform.ai )：一个经过实测的AI工具与软件优惠目录，为每个收录的工具给出购买、观望或略过的评测建议，涵盖写作、SEO、设计、生产力等分类。
+ 
  [![Back to Top](assets/Back-To-Top.svg)](#目录)
 
 ####  📚海外目录站点
