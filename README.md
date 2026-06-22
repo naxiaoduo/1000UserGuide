@@ -246,7 +246,7 @@
  - [UNTAG](https://utgd.net/ )：支持开发者以投稿文章或发帖，以自荐形式推荐应用和产品，[投稿页面](https://utgd.net/submission ) 。
  
  - [独立开发者前线](https://www.91wink.com) ：目前网站日UV 500+，可以帮助独立开发者获得初始用户，外链质量也不错，可以投稿独立开发故事、产品。
- 
+
  [![Back to Top](assets/Back-To-Top.svg)](#目录)
 
 ####  🤖国内网址导航站
@@ -386,6 +386,8 @@
  - [什么值得买](https://post.smzdm.com/ )：可在[软件区](https://post.smzdm.com/fenlei/ruanjianyingyong/ )，发布软件教程、应用推荐。
 
  - [NodeLoc](https://www.nodeloc.com/c/app) ：本板块用于分享各类实用、有趣或小众的应用程序，涵盖效率工具、生活服务、学习辅助、娱乐应用等。你可以在这里推荐好用的 App，交流使用体验、功能技巧与替代方案，帮助大家发现真正值得安装和长期使用的应用。
+
+- [知乎 AI Works](https://www.zhihu.com/project/square ):知乎全新推出的作品展示阵地，创作者可以将自己开发的 AI 工具、智能体（Agent）等成果发布在这里，直达海量知乎用户，收获真实反馈和社区曝光。
  
  [![Back to Top](assets/Back-To-Top.svg)](#目录)
 
