@@ -762,6 +762,8 @@
  - [Domaining.in](http://domaining.in/ )：一个免费的目录网站，为用户提供了广泛的分类和主题，涵盖了各个领域的网站链接。
 
  - [Sitelike](https://www.sitelike.org/add-site )：一个用于查找与给定网站类似、替代或相关的网站。用户可以免费将自己的网站添加到[Sitelike](https://www.sitelike.org/add-site )，并通过该平台获得更多的曝光和访问机会。
+ - [SaaSCity](https://saascity.io/submit )：游戏化的 SaaS 目录，每个提交的产品会变成等距城市地图上的一栋建筑。免费收录，人工审核，通常 24 小时内通过。
+
 
  - [Submission Web Directory](https://www.submissionwebdirectory.com/ )：一个网站目录，按照相关类别列出网站，以帮助用户找到正在寻找的网站。
 
