@@ -732,6 +732,8 @@
  - [ToolsFine](https://toolsfine.com/ ):一个提供各种在线工具、AI 工具、网络工具、设计工具的网址导航网站，支持[免费提交](https://tally.so/r/wvB7Xg )。
  
  - [Free AI Tool](https://freeaitool.ai )：一个全面的AI在线导航网站，展示最新和最佳的人工智能工具，24小时内快速收录，[支持免费提交](https://freeaitool.ai/submit )。
+
+ - [launched.tools](https://launched.tools/submit )：人工实测的精选 AI 工具目录，独立开发者可免费提交产品，收录后提供编辑评测评分页面和 dofollow 外链。
  
  [![Back to Top](assets/Back-To-Top.svg)](#目录)
 
