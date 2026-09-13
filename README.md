@@ -532,6 +532,8 @@
  - [WhatLaunched.Today](https://www.whatlaunched.today) :一个每日更新新产品的网站，专注于发现最新的产品发布和初创公司，为创业者、产品爱好者和投资者提供了一个简洁无广告的渠道。对于开发者而言，它是一个免费提交新产品信息以进行早期推广和获取曝光的平台。
 
  - [Open Launch](https://github.com/openlaunch-org/Open-Launch)：一个开源的产品发布与发现平台。它的定位是 Product Hunt 的开源替代品。它为开发者、初创团队和创作者提供了一个展示新项目、获取用户反馈并进行产品首发的平台。
+
+ - [Nick Launches](https://nicklaunches.com/)：一个面向独立开发者和初创团队的产品发布与发现平台。开发者可以免费[提交产品](https://nicklaunches.com/submit )，获得目录收录、日常曝光以及一条 dofollow 外链。
  
  [![Back to Top](assets/Back-To-Top.svg)](#目录)
 
