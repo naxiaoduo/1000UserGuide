@@ -347,6 +347,8 @@
  
   - [AI工具箱](https://www.ailookme.com )：一款免费在线AI工具合集，包含各种实用的AI工具，支持免费[提交AI产品](https://www.ailookme.com/%e7%bd%91%e5%9d%80%e6%8f%90%e4%ba%a4 )。
  
+ - [AI独立制造所](https://indiemaker.cn/ )：收录 2900+ 个中国独立开发者作品的导航站，覆盖 AI 工具、独立游戏、效率工具等 12 个分类，支持搜索与筛选，每日自动同步上游清单。[免费提交](https://github.com/1c7/chinese-independent-developer )。
+ 
  [![Back to Top](assets/Back-To-Top.svg)](#目录)
 
 ####  💬国内社区论坛
