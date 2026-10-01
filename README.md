@@ -179,7 +179,7 @@
 
  - 小众软件（[发现频道](https://meta.appinn.net/c/faxian/10 )）：提交软件、应用、服务，也可以是数码产品。
 
- - [ABABTOOLS](https://ababtools.com/ )（[曝光台](https://ababtools.com/?post=1292 )）：宝藏开发者的免费曝光台，为独立开发者提供免费产品收录。
+ - [ABABTOOLS](https://ababtools.com/ )（[曝光台](https://ababtools.com/?plugin=emtools )，[提交产品](https://ababtools.com/?plugin=emtools&view=submit )）：宝藏开发者的免费曝光台，为独立开发者提供免费产品收录。
 
  - [少数派](https://sspai.com/ )：少数派推出“[Tron 计划](https://sspai.com/page/tron )”，支持早期创业者专注于产品开发，联合大型平台和资本资源深度扶持。该计划已支持软件、硬件和服务领域的多个优秀项目。
  
@@ -390,6 +390,8 @@
  - [NodeLoc](https://www.nodeloc.com/c/app) ：本板块用于分享各类实用、有趣或小众的应用程序，涵盖效率工具、生活服务、学习辅助、娱乐应用等。你可以在这里推荐好用的 App，交流使用体验、功能技巧与替代方案，帮助大家发现真正值得安装和长期使用的应用。
 
 - [知乎 AI Works](https://www.zhihu.com/project/square ):知乎全新推出的作品展示阵地，创作者可以将自己开发的 AI 工具、智能体（Agent）等成果发布在这里，直达海量知乎用户，收获真实反馈和社区曝光。
+
+ - 33黑板报（[投稿地址](https://qe9fgwh5hz.feishu.cn/share/base/form/shrcnLkesNvRpQgIdTtmcafHDLg )）：帮助个人或小团队推广产品，推文免费发布到33黑板报公众号（1.5w粉丝），主要受众为自媒体、内容创作者。
  
  [![Back to Top](assets/Back-To-Top.svg)](#目录)
 
