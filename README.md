@@ -638,6 +638,7 @@
  - [Every AI](https://every-ai.com/submit-tool/ )：一个AI工具目录和市场，为用户提供各种各样的人工智能工具。
 
  - [Future Tools](https://www.futuretools.io/submit-a-tool )：一个集合和组织人工智能工具的平台，开发者可以提交开发的工具，增加其工具的曝光度，吸引更多的用户和潜在客户。
+ - [RespawnStack](https://respawnstack.com )：面向游戏开发者的精选 AI 工具目录，可提交工具增加曝光。
 
  - [Future AGI Tools](https://www.futureagitools.com/submit-a-site )：一个高质量的AI工具目录，提供市场上可用的最佳AI工具的全面概览。
 
