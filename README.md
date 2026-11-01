@@ -783,6 +783,8 @@
 
  - [Marketing Internet Directory](https://www.marketinginternetdirectory.com/submit.php )：一个质量目录，按照最适合的类别列出网站，以增强互联网用户的体验。
 
+ - [MEDIAPRONET](https://mediapronet.com/ )：一个面向新上线初创公司、SaaS 工具和独立产品的精选目录，每个产品都有独立页面。开发者可以将自己的产品[提交](https://mediapronet.com/submit )到目录中。
+
  - [Localsites](http://www.localsites.ca/ )：加拿大商业网站的目录，网站目录按省、市和行业对网站进行分类。
 
  - [Promote Business Directory](https://www.promotebusinessdirectory.com/submit.php )：一个企业目录网站，旨在帮助企业推广和宣传他们的业务。该目录提供了一个平台，让企业主可以提交他们的网站链接和文章，以增加在线曝光度和可见性。
