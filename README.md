@@ -484,6 +484,7 @@
  - [Startup Stash](https://startupstash.com/add-listing/ )：世界上最大的创业工具和资源在线目录之一。它为创业者提供了一个集合各种工具和资源的平台，帮助他们在创业过程中更高效地工作和成长。通过添加列表到Startup Stash，开发者可以让更多的创业者了解和使用他们的工具或资源，从而增加品牌认知和商业机会。
 
  - [StartupBase](https://startupbase.io/ )：一个由创客和早期采用者组成的社区，用于分享和讨论最新的产品和想法。
+ - [SitePatent](https://sitepatent.com/ )：一个面向创业公司、工具和在线产品的发现平台，按分类和技术栈整理。免费收录需在首页放置徽章，付费方案为一次性 19 美元起。
 
  - [StackShare](https://www.stackshare.io/sign_in )：一个技术堆栈比较网站。它允许开发者创建公司页面，并列出他们使用的技术。
 
