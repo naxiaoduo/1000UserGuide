@@ -735,6 +735,8 @@
  
  - [Free AI Tool](https://freeaitool.ai )：一个全面的AI在线导航网站，展示最新和最佳的人工智能工具，24小时内快速收录，[支持免费提交](https://freeaitool.ai/submit )。
  
+ - [Siteefy](https://siteefy.com/submit-tool?utm_source=1000userguide )：帮用户为任何任务找到并比较合适的工具和网站，涵盖AI工具、SaaS产品和各类在线服务。开发者只需填写网址，Siteefy会根据官网生成产品页面并先给你预览；攒够200积分可免费上线，或一次性支付39美元立即上线。
+ 
  [![Back to Top](assets/Back-To-Top.svg)](#目录)
 
 ####  📚海外目录站点
