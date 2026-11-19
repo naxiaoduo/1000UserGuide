@@ -1,0 +1,7 @@
+{
+  "name": "1000-user-guide",
+  "private": true,
+  "engines": {
+    "node": "26.x"
+  }
+}
