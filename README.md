@@ -249,6 +249,8 @@
 
  - [微博开放平台](https://open.weibo.com/zone/upload ) :适合人工智能工具投稿曝光，一般在1-3个工作日内完成审核与安全检测，一个工具只能关联一个主体开发者账号。
 
+ - [Builderoom](https://www.builderoom.com/zh-CN )：独立开发者、设计师与创客的作品展台，可创建产品页和个人主页。提交只需一个链接，AI 自动整理介绍，人工审核后上架，免费，[提交入口](https://www.builderoom.com/zh-CN/submit )。
+
  [![Back to Top](assets/Back-To-Top.svg)](#目录)
 
 ####  🤖国内网址导航站
