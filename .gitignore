@@ -1,7 +1,8 @@
 
 CNAME
 
-# Vercel 构建产物：首页 markdown（由 README.md 复制，因平台不托管 README.md）
+# Vercel 构建产物（含由 README.md 复制的 home.md）
+public/
 home.md
 
 # Cursor Helper Version: 0.1.5

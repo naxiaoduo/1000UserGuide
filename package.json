@@ -2,7 +2,7 @@
   "name": "1000-user-guide",
   "private": true,
   "scripts": {
-    "build": "cp README.md home.md"
+    "build": "rm -rf public && mkdir -p public && cp index.html _navbar.md update.md donate.md case.md growth.md resource.md groupChat.md ads.txt logo.webp 1000UserGuide.webp public/ && cp -R assets public/ && cp README.md public/home.md"
   },
   "engines": {
     "node": "26.x"
