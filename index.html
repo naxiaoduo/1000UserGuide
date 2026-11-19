@@ -65,6 +65,8 @@
   window.$docsify = {
     name: "1000UserGuide",
     repo: "naxiaoduo/1000UserGuide",
+    // Vercel 静态部署不再托管根目录 README.md，首页改为 home.md（构建时从 README.md 复制）
+    homepage: "home.md",
     search: ["/"],
     darklightTheme: {
       siteFont: "Source Sans Pro, Helvetica Neue",

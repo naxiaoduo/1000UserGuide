@@ -1,6 +1,9 @@
 
 CNAME
 
+# Vercel 构建产物：首页 markdown（由 README.md 复制，因平台不托管 README.md）
+home.md
+
 # Cursor Helper Version: 0.1.5
 # Cursor Helper AI 相关文件
 # 忽略 .cursor/commands 目录（Cursor 命令文件）

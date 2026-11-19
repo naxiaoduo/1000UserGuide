@@ -1,6 +1,9 @@
 {
   "name": "1000-user-guide",
   "private": true,
+  "scripts": {
+    "build": "cp README.md home.md"
+  },
   "engines": {
     "node": "26.x"
   }
