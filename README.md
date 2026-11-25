@@ -736,6 +736,7 @@
  - [ToolsFine](https://toolsfine.com/ ):一个提供各种在线工具、AI 工具、网络工具、设计工具的网址导航网站，支持[免费提交](https://tally.so/r/wvB7Xg )。
  
  - [Free AI Tool](https://freeaitool.ai )：一个全面的AI在线导航网站，展示最新和最佳的人工智能工具，24小时内快速收录，[支持免费提交](https://freeaitool.ai/submit )。
+ - [Mode VC](https://modevc.com/tools/)：免费免注册的创业融资稀释与大模型 API 成本计算器，另附公开海外 VC 机构与直投入口名录（[投资人目录](https://modevc.com/investors/)）。
  
  [![Back to Top](assets/Back-To-Top.svg)](#目录)
 
