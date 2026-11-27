@@ -453,6 +453,8 @@
 
  - [OpenAlternative](https://openalternative.co/ )：一个提供流行软件的开源替代方案的网站，[提交你的开源软件](https://airtable.com/appcN6nvv5n1GpABK/pagzZyGl6fEI2RWDq/form )。
 
+ - [qmetrics.net](https://qmetrics.net/ )：开源替代软件目录，收录 2800 多个开源项目，每条替代关系都附有项目自身文档中的依据。[提交你的开源项目](https://qmetrics.net/submit )。
+
  - [Joinly](https://www.joinly.xyz/ )：一个聚焦于最新科技初创企业和产品的平台。在该网站上，开发者可以提交科技初创企业或产品，以便在平台上获得曝光和推广。
 
  - [read.cv](https://read.cv/ )：一个知识和创意探索的社区平台，开发者及其项目简介进行曝光展示。
